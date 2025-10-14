@@ -1,0 +1,26 @@
+# Data files (large images and labels)
+data/images/
+data/labels/
+data/helmet_dataset.zip
+
+# Training outputs
+runs/
+
+# YOLOv5 submodule (large)
+yolov5/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
